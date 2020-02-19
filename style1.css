@@ -1,0 +1,60 @@
+.headings-color
+{
+    color:#172b4d;
+}
+.heading-align
+{
+    text-align: center;
+}
+.grey-color
+{
+    color:#858585;
+}
+.small-heading
+{
+    font-size: 20px;
+}
+.section-float-left
+{
+    float:left;
+}
+.section-float-right
+{
+    float: right;
+}
+.div-width
+{
+    width:50%;
+}
+.image-width-height
+{
+    
+    width: 50%;
+}
+.section-starting
+{
+    width:50%;
+    
+    padding:10px 10px;
+
+}
+.section-starting img{
+    text-align: center;
+}
+.unorderd-links
+{
+    list-style-type: none;
+}
+.color-links
+{
+    color:#e95d51;
+}
+.link-decoration
+{
+    text-decoration: none;
+}
+.image-feature
+{
+    width:100%;
+    text-align: center;
+}

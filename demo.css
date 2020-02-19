@@ -1,0 +1,181 @@
+body{
+    margin: 0 auto;
+}
+.headings-color
+{
+    color:#172b4d;
+}
+.heading-align
+{
+    text-align: center;
+}
+.grey-color
+{
+    color:#858585;
+}
+.small-heading
+{
+    font-size: 20px;
+}
+.section-float-left
+{
+    float:left;
+}
+.section-float-right
+{
+    float: right;
+}
+.div-width
+{
+    width:50%;
+}
+.image-width-height
+{
+    width: 25%;
+}
+.left-section
+{   overflow: hidden;
+    width:30%;
+    background-color:#f4f5f7;
+    float: left;
+    margin-left: 194px;
+    
+}
+.right-section
+{
+    width: 50%;
+    /* background-color: #f4f5f7; */
+    float: right;
+}
+.left-section-image 
+{
+    display: inline-block;
+    padding: 20px;
+    text-align: center;
+    /* width:; */
+}
+.section-second
+{
+    padding: 30px 10px;
+}
+
+.unorderd-links
+{
+    list-style-type: none;
+}
+.color-links
+{
+    color:#e95d51;
+}
+
+.link-decoration
+{
+    text-decoration: none;
+}
+.desktop-image {
+    max-width: 90%;
+    max-height: 90%;
+}
+.btn{
+    float:left;
+
+}
+.btn-content
+{
+    padding: 2px;
+}
+.all-font-style
+{
+    font-weight: bold;
+}
+.select-button
+{
+    width:35%;
+    float:left;
+    background-color:#f4f5f7 ;
+    border: 1px solid #f4f5f7 ;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.contents-dis
+{
+    margin-top:0px ;
+    color:#e95d51;
+    font-size: small;
+    font-weight: bold;
+}
+
+.input-box{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:75%;
+    padding:15px 14px;
+    background-color:#f4f5f7 ;
+    border: 1px solid #f4f5f7 ;
+}
+.input-button
+{
+    padding: 16px 0px;;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.select-option
+{
+    /* width:55%; */
+    background-color:#f4f5f7 ;
+    border: 1px solid #f4f5f7 ;
+    padding:10px 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width:80%;
+    
+}
+.text-area
+{
+    width:75%;
+    padding:20px 10px;
+}
+.check-box
+{
+    color:#172b4d;
+}
+.select-options
+{
+    float:left;
+}
+.button-class-one
+{
+    width:50%;
+    float:left;
+
+   
+}
+.button-class-button{
+    
+    margin:10px 10px;
+    padding:10px 10px;
+}
+.button-class{
+    width:80%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.button-class-two
+{
+    width:50%;
+    float:right;
+
+}
+ span{
+    font-weight: bold;
+ }
+.content
+{
+    float:left;
+}
+.input-text-fields
+{
+    border: none;
+}
+
